@@ -2,6 +2,7 @@
 
 
 ![github pages](https://github.com/guzhongren/guzhongren.github.io/workflows/github%20pages/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io?ref=badge_shield)
 
 
 ![谷哥说-微信公众号](https://ftp.bmp.ovh/imgs/2020/02/b7282c60d4d581ad.png)
@@ -32,4 +33,6 @@ $ make commit message="feat(post): 发布新文章"
 $ make pub
 ```
 
+## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguzhongren%2Fguzhongren.github.io?ref=badge_large)
+
